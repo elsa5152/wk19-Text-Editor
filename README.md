@@ -19,6 +19,7 @@ You will deploy this full-stack application to Heroku using the Heroku Deploymen
 - [Install and Setup](#install-and-setup)
 - [DEMO](#demo)
 - [Code](#github-code)
+- [Heroku Link](#heroku-link)
 
 
 
@@ -30,10 +31,16 @@ npm start
 ```
 ### DEMO
 
-
-
+<image src="images/01.png" alt="01.png" width="500" height="300">
+<image src="images/02.png" alt="02.png" width="500" height="300">
 
 
 ## Github code
 
-<a href="https://github.com/elsa5152/wk18Social-Network-API.git" >Social-Network-API</a>
+<a href="https://github.com/elsa5152/wk19-Text-Editor.git" >Text-Editor</a>
+
+## Heroku Link
+
+
+
+
